@@ -10,4 +10,4 @@
         <a href="https://www.quora.com/profile/Ahmed-Fathy-616"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora" alt="Quora" /></a>
         <a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
  </div>
-<img alt="GIF" src="https://giphy.com/embed/sL00sB0pH5oVaQclLc" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ufc-sports-sport-ufc-280-mma-sL00sB0pH5oVaQclLc">
+<img alt="GIF" src="https://media.giphy.com/media/sL00sB0pH5oVaQclLc/giphy.gif)https://media.giphy.com/media/sL00sB0pH5oVaQclLc/giphy.gif" width ="200"
