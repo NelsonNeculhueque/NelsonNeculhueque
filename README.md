@@ -17,7 +17,17 @@
     <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/h6h6pd7qqade8ixh6yecs6b7v)
- 
+
+</div>
 ---
 
+<div>
+  <p>
+    <a href="https://github.com/NelsonNeculhueque/Proyecto-Taller-Integral">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/NelsonNeculhueque/Proyecto-Taller-Integral">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+    </a>
+  </p>
 </div>
