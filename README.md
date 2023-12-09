@@ -35,8 +35,8 @@
     <a href="https://github.com/NelsonNeculhueque/Desarrollo_web">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonNeculhueque&repo=Desarrollo_web" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/NelsonNeculhueque/final-project-progra2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonNeculhueque&repo=final-project-progra2" alt="GitHub Stats" />
+    <a href="https://github.com/patitojavi/final-project-progra2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=patitojavi&repo=final-project-progra2" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/NelsonNeculhueque/Ejercicios">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonNeculhueque&repo=Ejercicios" alt="GitHub Stats" />
