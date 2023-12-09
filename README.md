@@ -33,7 +33,7 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonNeculhueque&repo=Programacion_Orientada_a_Objetos" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/RohanCas/Desarollo_web">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RohanCas&repo=Desarrollo_web" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RohanCas&repo=Desarollo_web" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/patitojavi/final-project-progra2">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=patitojavi&repo=final-project-progra2" alt="GitHub Stats" />
