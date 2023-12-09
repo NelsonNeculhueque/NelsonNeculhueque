@@ -12,7 +12,7 @@
         <img alt="GIF" src="https://media.giphy.com/media/sL00sB0pH5oVaQclLc/giphy.gif" width="200" />
     </div>
 ---
-<div align = right>
+<div align = left>
     ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/h6h6pd7qqade8ixh6yecs6b7v)
