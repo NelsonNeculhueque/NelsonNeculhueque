@@ -11,11 +11,10 @@
     <div>
         <img alt="GIF" src="https://media.giphy.com/media/sL00sB0pH5oVaQclLc/giphy.gif" width="200" />
     </div>
----
+    
 ### Spotify Playing 🎧
 <div align = left>
     <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-    ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/h6h6pd7qqade8ixh6yecs6b7v)
  
