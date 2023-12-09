@@ -26,7 +26,19 @@
     <a href="https://github.com/NelsonNeculhueque/Proyecto-Taller-Integral">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/NelsonNeculhueque/Proyecto-Taller-Integral">
+    <a href="https://github.com/NelsonNeculhueque/Eva-Transdisciplinar-2023-A2-S3">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/NelsonNeculhueque/Programacion_Orientada_a_Objetos">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/RohanCas/Desarollo_web">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/patitojavi/final-project-progra2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/NelsonNeculhueque/Ejercicios">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
     </a>
   </p>
