@@ -24,22 +24,23 @@
 <div>
   <p>
     <a href="https://github.com/NelsonNeculhueque/Proyecto-Taller-Integral">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Proyecto-Taller-Integral" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonNeculhueque&repo=Proyecto-Taller-Integral" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/NelsonNeculhueque/Eva-Transdisciplinar-2023-A2-S3">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonNeculhueque&repoEva-Transdisciplinar-2023-A2-S3" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonNeculhueque&repo=Eva-Transdisciplinar-2023-A2-S3" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/NelsonNeculhueque/Programacion_Orientada_a_Objetos">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonNeculhueque&repo=Programacion_Orientada_a_Objetos" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/RohanCas/Desarollo_web">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonNeculhueque&repo=Desarollo_web" alt="GitHub Stats" />
+    <a href="https://github.com/NelsonNeculhueque/Desarrollo_web">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonNeculhueque&repo=Desarrollo_web" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/patitojavi/final-project-progra2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonNeculhueque&repo=final-project-progra2" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=patitojavi&repo=final-project-progra2" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/NelsonNeculhueque/Ejercicios">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonNeculhueque&repo=Ejercicios" alt="GitHub Stats" />
     </a>
   </p>
 </div>
+
