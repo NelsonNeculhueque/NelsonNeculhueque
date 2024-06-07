@@ -6,7 +6,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social)](https://github.com/AnushkaWijegoonawardana97)
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName)](https://github.com/AnushkaWijegoonawardana97)
 [![Profile views](https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97)
-
+<img alt="GIF" src="https://media.giphy.com/media/sL00sB0pH5oVaQclLc/giphy.gif" width="200" />
 </div>
 
 ---
@@ -47,6 +47,3 @@
 
 ---
 
-<div align="center">
-  <img alt="GIF" src="https://media.giphy.com/media/sL00sB0pH5oVaQclLc/giphy.gif" width="200" />
-</div>
